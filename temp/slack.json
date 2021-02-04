@@ -1,0 +1,62 @@
+{
+	"blocks": [
+		{
+			"type": "header",
+			"text": {
+				"type": "plain_text",
+				"text": "Introduction to Progressive Web Apps"
+			}
+		},
+		{
+			"type": "section",
+			"fields": [
+				{
+					"type": "plain_text",
+					"text": ":date: February 20",
+					"emoji": true
+				},
+				{
+					"type": "plain_text",
+					"text": ":watch: 08:00 PM - 09:30 PM",
+					"emoji": true
+				},
+				{
+					"type": "plain_text",
+					"text": ":round_pushpin: Online",
+					"emoji": true
+				},
+				{
+					"type": "plain_text",
+					"text": ":busts_in_silhouette: PWA Pilipinas",
+					"emoji": true
+				}
+			]
+		},
+		{
+			"type": "section",
+			"text": {
+				"type": "plain_text",
+				"text": "Learn what a Progressive Web App is all about. Tune in this Saturday (February 20, 2021) at 8pm. John McLem Adan will be the guest speaker for the event. He is a Software Engineer at Cloud Panda PH and the Community Content and Publishing Lead here at PWA Pilipinas"
+			}
+		},
+		{
+			"type": "image",
+			"image_url": "https://firebasestorage.googleapis.com/v0/b/pwa-pilipinas.appspot.com/o/events%2FcoverUrl%2F1611853388?alt=media&token=b87d21b1-aa76-49ec-8107-2263a756a63c",
+			"alt_text": "Event Poster"
+		},
+		{
+			"type": "actions",
+			"elements": [
+				{
+					"type": "button",
+					"text": {
+						"type": "plain_text",
+						"text": "View Details"
+					},
+					"style": "primary",
+					"url": "https://pwapilipinas.org/event/8pPWlrRnuZKu6bZHjZpq"
+				}
+			]
+		}
+	]
+}
